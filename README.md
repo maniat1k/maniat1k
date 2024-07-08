@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maniat1k
 - lots of bash on me (I think)
 - my Linux Debian & RedHat
-- 🌱 Learning python, since it's fashionable right?
+- 🌱 Learning AI, since it's fashionable right?
 - 📫 How to reach me ... https://linktr.ee/s0ymarcel0
 
 <!---
