@@ -29,7 +29,7 @@ Construyo herramientas simples para resolver problemas reales — desde scripts 
 If you find something useful, feel free to support me on Ko-fi:  
 Si algo te resultó útil, podés invitarme un café en Ko-fi:  
 <a href='https://ko-fi.com/B0B01CLRRI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Comprame un café' /></a>
-**[ko-fi.com/marcelo](https://ko-fi.com/marcelolemos)**
+
 
 ---
 
