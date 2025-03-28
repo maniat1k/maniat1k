@@ -28,7 +28,7 @@ Construyo herramientas simples para resolver problemas reales — desde scripts 
 
 If you find something useful, feel free to support me on Ko-fi:  
 Si algo te resultó útil, podés invitarme un café en Ko-fi:  
-**[ko-fi.com/maniat1k](https://ko-fi.com/maniat1k)**
+**[ko-fi.com/marcelo](https://ko-fi.com/marcelolemos)**
 
 ---
 
