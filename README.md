@@ -1,21 +1,44 @@
-# Hi, I'm Marcelo 👋
+# 👋 Hi, I'm Marcelo | Hola, soy Marcelo
 
 💻 Tech tinkerer | 🧠 Automation enthusiast | 🎧 Music lover | 📚 Always learning  
-I build simple tools to solve real problems — from shell scripts and system tweaks to terminal theming and maintenance helpers.
+💻 Curioso de la tecnología | 🧠 Apasionado por la automatización | 🎧 Melómano | 📚 Siempre aprendiendo
 
-🔧 Focused on:
-- Linux/Windows optimization
-- Bash scripting and automation
-- Clean, minimalist configurations (ZSH, VMs, etc.)
-
-🚀 Projects worth checking:
-- [Solarizedxterm](https://github.com/maniat1k/solarizedxterm) — Terminal color theme for better readability
-- [birame](https://github.com/maniat1k/birame) — ZSH theme inspired by "bira" with practical tweaks
-- [windows11_fixMBR](https://github.com/maniat1k/windows11_fixMBR) — Restore your Windows bootloader
-
-☕ Support my work: [ko-fi.com/maniat1k](https://ko-fi.com/maniat1k)  
-🔗 More soon at [maniat1k.github.io](https://maniat1k.github.io)
+I build simple tools to solve real problems — from shell scripts and system tweaks to terminal theming and maintenance helpers.  
+Construyo herramientas simples para resolver problemas reales — desde scripts en Bash y ajustes de sistemas hasta personalización de terminales y soluciones de mantenimiento.
 
 ---
 
-“Making digital life simpler, one line at a time.”
+## 🚀 Projects worth checking | Proyectos para mirar
+
+- [**Solarizedxterm**](https://github.com/maniat1k/solarizedxterm)  
+  Terminal color theme for better readability  
+  Tema de colores para terminal que mejora la lectura
+
+- [**birame**](https://github.com/maniat1k/birame)  
+  ZSH theme inspired by *bira*, reworked for practicality  
+  Tema ZSH inspirado en *bira*, adaptado con mejoras útiles
+
+- [**windows11_fixMBR**](https://github.com/maniat1k/windows11_fixMBR)  
+  Simple batch script to repair Windows bootloader  
+  Script en batch para reparar el cargador de arranque de Windows
+
+---
+
+## ☕ Support my work | Apoyá mi trabajo
+
+If you find something useful, feel free to support me on Ko-fi:  
+Si algo te resultó útil, podés invitarme un café en Ko-fi:  
+**[ko-fi.com/maniat1k](https://ko-fi.com/maniat1k)**
+
+---
+
+## 🔗 More soon | Más pronto
+
+Blog + digital tools hub coming soon:  
+Blog + centro de herramientas digitales próximamente:  
+**[maniat1k.github.io](https://maniat1k.github.io)**
+
+---
+
+> “Making digital life simpler, one line at a time.”  
+> “Simplificando la vida digital, una línea a la vez.”
