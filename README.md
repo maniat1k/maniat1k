@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Marcelo 👋
 
-<!--
-**maniat1k/maniat1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tech tinkerer | 🧠 Automation enthusiast | 🎧 Music lover | 📚 Always learning  
+I build simple tools to solve real problems — from shell scripts and system tweaks to terminal theming and maintenance helpers.
 
-Here are some ideas to get you started:
+🔧 Focused on:
+- Linux/Windows optimization
+- Bash scripting and automation
+- Clean, minimalist configurations (ZSH, VMs, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects worth checking:
+- [Solarizedxterm](https://github.com/maniat1k/solarizedxterm) — Terminal color theme for better readability
+- [birame](https://github.com/maniat1k/birame) — ZSH theme inspired by "bira" with practical tweaks
+- [windows11_fixMBR](https://github.com/maniat1k/windows11_fixMBR) — Restore your Windows bootloader
+
+☕ Support my work: [ko-fi.com/maniat1k](https://ko-fi.com/maniat1k)  
+🔗 More soon at [maniat1k.github.io](https://maniat1k.github.io)
+
+---
+
+“Making digital life simpler, one line at a time.”
