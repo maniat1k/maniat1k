@@ -29,16 +29,23 @@ Construyo herramientas simples para resolver problemas reales — desde scripts 
 If you find something useful, feel free to support me on Ko-fi:  
 Si algo te resultó útil, podés invitarme un café en Ko-fi:  
 
-<center><a href='https://ko-fi.com/B0B01CLRRI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Comprame un café' /></a></center>
-
+<p align="center">
+  <a href="https://ko-fi.com/marcelolemos" target="_blank">
+    <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" border="0" alt="Comprame un café" />
+  </a>
+</p>
 
 ---
 
-## 🔗 More soon | Más pronto
+## 🔗 Visit my digital terminal | Visitá mi terminal digital
 
-Blog + digital tools hub coming soon:  
-Blog + centro de herramientas digitales próximamente:  
-**[maniat1k.github.io](https://maniat1k.github.io)**
+🎯 My main landing page lives at:  
+🎯 Mi página principal vive en:
+
+👉 **[codigopersonal — maniat1k.github.io](https://maniat1k.github.io)**
+
+Explore my tools, projects, and ideas in terminal-style.  
+Explorá mis herramientas, proyectos e ideas en estilo terminal.
 
 ---
 
