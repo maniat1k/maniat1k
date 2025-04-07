@@ -22,6 +22,11 @@ Construyo herramientas simples para resolver problemas reales — desde scripts 
   Simple batch script to repair Windows bootloader  
   Script en batch para reparar el cargador de arranque de Windows
 
+- [**ahorro.html**](https://github.com/maniat1k/maniat1k.github.io/blob/main/ahorro.html)  
+  Interactive savings and interest calculator in a clean layout  
+  Calculadora interactiva de ahorro e interés con diseño profesional  
+  🌐 [Ver online](https://maniat1k.github.io/ahorro.html)
+
 ---
 
 ## ☕ Support my work | Apoyá mi trabajo
