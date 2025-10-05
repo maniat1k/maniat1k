@@ -1,46 +1,64 @@
-# 👋 Hi, I'm Marcelo 
+<!-- HEADER -->
+<h1 align="center">👋 Hey, I'm Marcelo Lemos — <em>ManiAt1k</em></h1>
 
-💻 Tech tinkerer | 🧠 Automation enthusiast | 🎧 Music lover | 📚 Always learning  
-I build simple tools to solve real problems — from shell scripts and system tweaks to terminal theming and maintenance helpers. 
-
----
-
-## 🚀 Projects worth checking
-
-- [**Solarizedxterm**](https://github.com/maniat1k/solarizedxterm)  
-  Terminal color theme for better readability  
-  
-- [**birame**](https://github.com/maniat1k/birame)  
-  ZSH theme inspired by *bira*, reworked for practicality  
-  
-- [**windows11_fixMBR**](https://github.com/maniat1k/windows11_fixMBR)  
-  Simple batch script to repair Windows bootloader  
-  
-- [**ahorro.html**](https://github.com/maniat1k/maniat1k.github.io/blob/main/ahorro.html)  
-  Interactive savings and interest calculator in a clean layout   🌐 [Ver online](https://maniat1k.github.io/ahorro.html)
+<p align="center">
+💻 <strong>Tech & Automation Developer</strong> • 🎨 <strong>Creative Coder</strong> • 🎧 <strong>Music & Design Enthusiast</strong>  
+<br>
+Simplifying digital life — one script, one design, one idea at a time.
+</p>
 
 ---
 
-## ☕ Support my work | Apoyá mi trabajo
+## 🚀 Featured Projects
 
-If you find something useful, feel free to support me on Ko-fi:  
+| Project | Description | Link |
+|----------|--------------|------|
+| 🖥️ **Solarizedxterm** | Terminal color theme for better readability and eye comfort. | [View Repo](https://github.com/maniat1k/solarizedxterm) |
+| ⚙️ **Birame** | ZSH theme inspired by *bira*, redesigned for daily workflow clarity. | [View Repo](https://github.com/maniat1k/birame) |
+| 💾 **Windows11 FixMBR** | Simple batch script to repair the Windows bootloader. | [View Repo](https://github.com/maniat1k/windows11_fixMBR) |
+| 💰 **Ahorro Visual** | Interactive savings & interest calculator with live simulation. | [Try it Online](https://maniat1k.github.io/ahorro.html) |
+
+---
+
+## 🧠 About Me
+
+I’m a systems analyst and developer focused on **automation, clarity, and usability**.  
+My projects blend **tech precision** with **creative presentation**, showing that scripting can be both useful and beautiful.  
+
+When I’m not coding, I’m exploring **design, AI-generated music**, and new ways to visualize ideas.  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,postgres,git,docker,linux,vscode&perline=5" alt="Tech Stack" />
+</p>
+
+---
+
+## ☕ Support My Work
+
+If something here made your life easier, you can support me on **Ko-fi**:  
 
 <p align="center">
   <a href="https://ko-fi.com/marcelolemos" target="_blank">
-    <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" border="0" alt="Buy me a cafe" />
+    <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" border="0" alt="Buy me a coffee" />
   </a>
 </p>
 
 ---
 
-## 🔗 Visit my digital terminal | Visitá mi terminal digital
+## 🌐 Connect With Me
 
-🎯 My main landing page lives at: 
-
-👉 **[codigopersonal — maniat1k.github.io](https://maniat1k.github.io)**
-
-Explore my tools, projects, and ideas in terminal-style.  
+<p align="center">
+  <a href="https://x.com/maniat1kUy"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/maniat1k"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/@maniat1kUy"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://maniat1k.github.io"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
+</p>
 
 ---
 
-> “Making digital life simpler, one line at a time.”  
+> “Turning small scripts into big ideas.”  
+> — *Marcelo Lemos / ManiAt1k*
