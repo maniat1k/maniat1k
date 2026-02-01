@@ -31,19 +31,6 @@ Cuando no estoy programando, exploro **diseño, música generada por IA** y nuev
 
 ---
 
-## 📊 Actividad y estadísticas
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maniat1k&show_icons=true&hide_title=true&theme=graywhite" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=maniat1k&theme=graywhite" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniat1k&layout=compact&theme=graywhite" />
-</p>
-
----
-
 ## 🛠️ Tecnologías
 
 <p align="center">
@@ -68,7 +55,6 @@ Si algún proyecto te ayudó a ahorrar tiempo o simplificar un problema, podés 
 
 <p align="center">
   <a href="https://x.com/maniat1kUy"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://instagram.com/maniat1k"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://youtube.com/@maniat1kUy"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://maniat1k.github.io"><img src="https://img.shields.io/badge/Sitio%20Web-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
 </p>
