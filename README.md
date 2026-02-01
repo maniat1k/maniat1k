@@ -1,64 +1,79 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey, I'm Marcelo Lemos — <em>ManiAt1k</em></h1>
+<h1 align="center">👋 Hola, soy Marcelo Lemos — <em>ManiAt1k</em></h1>
 
 <p align="center">
-💻 <strong>Tech & Automation Developer</strong> • 🎨 <strong>Creative Coder</strong> • 🎧 <strong>Music & Design Enthusiast</strong>  
-<br>
-Simplifying digital life — one script, one design, one idea at a time.
+<strong>Analista de Sistemas & Desarrollador en Automatización</strong> ·
+<strong>Herramientas y Optimización de Flujos</strong> ·
+<strong>Tecnología Creativa</strong><br>
+Simplifico sistemas y procesos mediante automatización, claridad y diseño consciente.
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Proyectos Destacados
 
-| Project | Description | Link |
-|----------|--------------|------|
-| 🖥️ **Solarizedxterm** | Terminal color theme for better readability and eye comfort. | [View Repo](https://github.com/maniat1k/solarizedxterm) |
-| ⚙️ **Birame** | ZSH theme inspired by *bira*, redesigned for daily workflow clarity. | [View Repo](https://github.com/maniat1k/birame) |
-| 💾 **Windows11 FixMBR** | Simple batch script to repair the Windows bootloader. | [View Repo](https://github.com/maniat1k/windows11_fixMBR) |
-| 💰 **Ahorro Visual** | Interactive savings & interest calculator with live simulation. | [Try it Online](https://maniat1k.github.io/ahorro.html) |
-
----
-
-## 🧠 About Me
-
-I’m a systems analyst and developer focused on **automation, clarity, and usability**.  
-My projects blend **tech precision** with **creative presentation**, showing that scripting can be both useful and beautiful.  
-
-When I’m not coding, I’m exploring **design, AI-generated music**, and new ways to visualize ideas.  
+| Proyecto | Descripción | Enlace |
+|--------|-------------|--------|
+| 🖥️ **Solarizedxterm** | Tema de colores para terminal enfocado en legibilidad y confort visual. | [Ver repositorio](https://github.com/maniat1k/solarizedxterm) |
+| ⚙️ **Birame** | Tema ZSH inspirado en *bira*, rediseñado para un flujo de trabajo diario más claro. | [Ver repositorio](https://github.com/maniat1k/birame) |
+| 💾 **Windows11 FixMBR** | Script batch minimalista para reparar el cargador de arranque de Windows. | [Ver repositorio](https://github.com/maniat1k/windows11_fixMBR) |
+| 💰 **Ahorro Visual** | Calculadora interactiva de ahorro e intereses con simulación en tiempo real. | [Probar online](https://maniat1k.github.io/ahorro.html) |
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Sobre mí
+
+Soy **analista de sistemas y desarrollador**, enfocado en crear herramientas que reduzcan fricción, automaticen tareas repetitivas y faciliten la comprensión de procesos complejos.
+
+Mi trabajo se mueve entre **automatización, usabilidad y documentación**, combinando precisión técnica con una presentación clara y cuidada.
+
+Cuando no estoy programando, exploro **diseño, música generada por IA** y nuevas formas de visualizar información e ideas.
+
+---
+
+## 📊 Actividad y estadísticas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,html,css,postgres,git,docker,linux,vscode&perline=5" alt="Tech Stack" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=maniat1k&show_icons=true&hide_title=true&theme=graywhite" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=maniat1k&theme=graywhite" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniat1k&layout=compact&theme=graywhite" />
 </p>
 
 ---
 
-## ☕ Support My Work
+## 🛠️ Tecnologías
 
-If something here made your life easier, you can support me on **Ko-fi**:  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,html,css,postgres,git,docker,linux,vscode&perline=5" alt="Stack tecnológico" />
+</p>
+
+---
+
+## ☕ Apoyar mi trabajo
+
+Si algún proyecto te ayudó a ahorrar tiempo o simplificar un problema, podés apoyar mi trabajo en **Ko-fi**:
 
 <p align="center">
   <a href="https://ko-fi.com/marcelolemos" target="_blank">
-    <img height="36" style="border:0px;height:36px;" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" border="0" alt="Buy me a coffee" />
+    <img height="36" src="https://storage.ko-fi.com/cdn/kofi6.png?v=6" alt="Invitar un café" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Conectemos
 
 <p align="center">
-  <a href="https://x.com/maniat1kUy"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://x.com/maniat1kUy"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://instagram.com/maniat1k"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://youtube.com/@maniat1kUy"><img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://maniat1k.github.io"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
+  <a href="https://maniat1k.github.io"><img src="https://img.shields.io/badge/Sitio%20Web-000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
 </p>
 
 ---
 
-> “Turning small scripts into big ideas.”  
+> “Transformar pequeños scripts en sistemas confiables.”  
 > — *Marcelo Lemos / ManiAt1k*
