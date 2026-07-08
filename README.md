@@ -104,7 +104,7 @@ Mi enfoque combina precisión técnica, claridad documental y automatización so
 
 Si algún proyecto te ayudó a simplificar un problema o ahorrar tiempo:
 
-https://ko-fi.com/marcelolemos
+https://ko-fi.com/maniat1kuy
 
 ---
 
