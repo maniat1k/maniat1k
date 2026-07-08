@@ -111,7 +111,6 @@ https://ko-fi.com/marcelolemos
 ## 🌐 Conectemos
 
 - X: https://x.com/maniat1kUy
-- YouTube: https://youtube.com/@maniat1kUy
 - Sitio Web: https://maniat1k.github.io
 
 ---
