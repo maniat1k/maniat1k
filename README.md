@@ -1,37 +1,39 @@
 <!-- README del perfil de GitHub. No modifica el avatar ni la barra lateral. -->
 <div align="center">
 
-<img src="assets/retro/banner.svg" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/banner.svg" width="100%" alt="banner" />
 
 </div>
 
-<img src="assets/retro/who-i-am.svg" width="100%" alt="Quién soy" />
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/who-i-am.svg" width="100%" alt="Quién soy" />
 
 > Soy Marcelo Lemos, profesional de sistemas con más de 15 años de experiencia en plataformas críticas. Combino administración Linux, ingeniería de datos, automatización y análisis funcional para construir soluciones sostenibles.
 
-<img src="assets/retro/what-i-do.svg" width="100%" alt="Qué hago" />
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/what-i-do.svg" width="100%" alt="Qué hago" />
 
 > Diseño y mantengo plataformas de datos, automatizo procesos y pruebas, trabajo con bases de datos relacionales y aplico observabilidad y prácticas DevOps a sistemas en producción.
 
-<img src="assets/retro/vision.svg" width="100%" alt="vision" />
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/vision.svg" width="100%" alt="vision" />
 
 > Sistemas trazables, reproducibles y mantenibles. Menos fricción operativa, mayor calidad de datos y herramientas que ayuden a tomar mejores decisiones.
 
-<img src="assets/retro/beyond-code.svg" width="100%" alt="Más allá del código" />
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/beyond-code.svg" width="100%" alt="Más allá del código" />
 
 > Desarrollo herramientas abiertas, experimento con terminales y software, y comparto soluciones prácticas para otros profesionales.
 
-<img src="assets/retro/connect.svg" width="100%" alt="Conectemos" />
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/connect.svg" width="100%" alt="Conectemos" />
 
-<table align="center"><tr>
-<td align="center"><a href="https://github.com/maniat1k"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub"/><br/>GitHub</a></td>
-<td align="center"><a href="https://www.linkedin.com/in/marcelolemosuy/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/><br/>LinkedIn</a></td>
-<td align="center"><a href="https://x.com/maniat1kUy"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="32" alt="X"/><br/>X</a></td>
-<td align="center"><a href="https://maniat1k.github.io"><img src="https://cdn.simpleicons.org/googlechrome/7ee787" width="32" alt="Sitio web"/><br/>Sitio web</a></td>
-<td align="center"><a href="https://ko-fi.com/maniat1kuy"><img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="32" alt="Ko-fi"/><br/>Ko-fi</a></td>
-</tr></table>
+<div align="center">
 
-<img src="assets/retro/github-activity.svg" width="100%" alt="Actividad en GitHub" />
+<a href="https://github.com/maniat1k"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marcelolemosuy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/maniat1kUy"><img alt="X" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://maniat1k.github.io"><img alt="Sitio web" src="https://img.shields.io/badge/Sitio_web-238636?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://ko-fi.com/maniat1kuy"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko-fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/github-activity.svg" width="100%" alt="Actividad en GitHub" />
 
 <div align="center">
 
@@ -42,15 +44,33 @@
 
 </div>
 
-<img src="assets/retro/skill-set.svg" width="100%" alt="Tecnologías" />
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/skill-set.svg" width="100%" alt="Tecnologías" />
 
 <div align="center">
 
-<img src="assets/retro/skills.svg" width="100%" alt="Tecnologías: Linux, Bash, PowerShell, Python, Git, GitLab, Docker, Ansible, PostgreSQL, MySQL, MariaDB, SQL, Jupyter, Pandas, Airflow, Apache Hop, Superset, Power BI, Zabbix, Graylog, Grafana, Nginx, VMware, OpenLDAP, Redmine y Odoo"/>
+**SISTEMAS Y AUTOMATIZACIÓN**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,git,gitlab,docker,ansible&theme=dark&perline=8" alt="Linux, Bash, PowerShell, Python, Git, GitLab, Docker y Ansible"/>
+
+**DATOS Y ANÁLISIS**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,py,grafana&theme=dark&perline=8" alt="PostgreSQL, MySQL, SQLite, Python y Grafana"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Apache_Hop-243642?style=for-the-badge" alt="Apache Hop"/> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/> <img src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=for-the-badge" alt="Superset"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI"/>
+
+**OPERACIONES E INGENIERÍA**
+
+<img src="https://skillicons.dev/icons?i=nginx,redhat,debian,ubuntu,linux,docker&theme=dark&perline=8" alt="Nginx, Red Hat, Debian, Ubuntu, Linux y Docker"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Zabbix-CB0000?style=for-the-badge" alt="Zabbix"/> <img src="https://img.shields.io/badge/Graylog-2B3440?style=for-the-badge" alt="Graylog"/> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge" alt="VMware"/> <img src="https://img.shields.io/badge/OpenLDAP-335A8B?style=for-the-badge" alt="OpenLDAP"/> <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge" alt="Redmine"/> <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
 
 </div>
 
-<img src="assets/retro/featured-projects.svg" width="100%" alt="Proyectos destacados" />
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/featured-projects.svg" width="100%" alt="Proyectos destacados" />
 
 | Proyecto | Descripción |
 |:--|:--|
