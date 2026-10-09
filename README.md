@@ -1,100 +1,71 @@
+<!-- GitHub profile README. Preview branch; does not modify the GitHub avatar or profile sidebar. -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:16251c,100:0d1117&height=145&section=header&text=MARCELO%20LEMOS&fontSize=42&fontColor=8be9a8&animation=fadeIn&desc=MANIAT1K%20%2F%20DEVOPS%20%2F%20DATA%20ENGINEERING&descSize=14&descAlignY=78" width="100%" alt="Marcelo Lemos — Maniat1k"/>
-
-<sub>LINUX • AUTOMATION • DATA PLATFORMS • OBSERVABILITY</sub>
+<img src="assets/retro/banner.svg" width="100%" alt="banner" />
 
 </div>
 
-<table>
-<tr><td width="50%" valign="top">
+<img src="assets/retro/who-i-am.svg" width="100%" alt="who i am" />
 
-### ▌WHO I AM
-Soy Marcelo, profesional de sistemas con más de 15 años de experiencia en plataformas críticas, infraestructura Linux, automatización y datos.
+> Soy Marcelo Lemos, profesional de sistemas con más de 15 años de experiencia en plataformas críticas. Combino administración Linux, ingeniería de datos, automatización y análisis funcional para construir soluciones sostenibles.
 
-### ▌WHAT I DO
-Diseño procesos reproducibles, integro sistemas, automatizo validaciones y convierto datos operativos en información útil.
+<img src="assets/retro/what-i-do.svg" width="100%" alt="what i do" />
 
-</td><td width="50%" valign="top">
+> Diseño y mantengo plataformas de datos, automatizo procesos y pruebas, trabajo con bases de datos relacionales y aplico observabilidad y prácticas DevOps a sistemas en producción.
 
-### ▌VISION
-Tecnología sostenible: menos tareas manuales, más trazabilidad, calidad y observabilidad.
+<img src="assets/retro/vision.svg" width="100%" alt="vision" />
 
-### ▌BEYOND CODE
-Comparto herramientas, experimentos y soluciones que pueden servir a otros desarrolladores y equipos.
+> Sistemas trazables, reproducibles y mantenibles. Menos fricción operativa, mayor calidad de datos y herramientas que ayuden a tomar mejores decisiones.
 
-</td></tr>
-</table>
+<img src="assets/retro/beyond-code.svg" width="100%" alt="beyond code" />
 
-<div align="center">
+> Desarrollo herramientas abiertas, experimento con terminales y software, y comparto soluciones prácticas para otros profesionales.
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=7ee787)](https://github.com/maniat1k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7ee787)](https://www.linkedin.com/in/marcelolemosuy/)
-[![Website](https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=7ee787)](https://maniat1k.github.io)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-0d1117?style=for-the-badge&logo=kofi&logoColor=7ee787)](https://ko-fi.com/maniat1kuy)
-[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=7ee787)](https://x.com/maniat1kUy)
+<img src="assets/retro/connect.svg" width="100%" alt="connect" />
 
-</div>
+<table align="center"><tr>
+<td align="center"><a href="https://github.com/maniat1k"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub"/><br/>GitHub</a></td>
+<td align="center"><a href="https://www.linkedin.com/in/marcelolemosuy/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/><br/>LinkedIn</a></td>
+<td align="center"><a href="https://x.com/maniat1kUy"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="32" alt="X"/><br/>X</a></td>
+<td align="center"><a href="https://maniat1k.github.io"><img src="https://cdn.simpleicons.org/googlechrome/7ee787" width="32" alt="Sitio web"/><br/>Website</a></td>
+<td align="center"><a href="https://ko-fi.com/maniat1kuy"><img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="32" alt="Ko-fi"/><br/>Ko-fi</a></td>
+</tr></table>
 
----
-
-### ▌GITHUB ACTIVITY
+<img src="assets/retro/github-activity.svg" width="100%" alt="github activity" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maniat1k&show_icons=true&theme=github_dark&hide_border=true&title_color=7ee787&icon_color=3fb950" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniat1k&layout=compact&theme=github_dark&hide_border=true&title_color=7ee787" height="165" alt="Most used languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maniat1k&theme=github_dark" width="98%" alt="Actividad de GitHub"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maniat1k&theme=github_dark" width="95%" alt="Contribution activity"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maniat1k&show_icons=true&theme=github_dark&hide_border=true&title_color=7ee787&icon_color=3fb950" width="49%" alt="Estadísticas de GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniat1k&layout=compact&theme=github_dark&hide_border=true&title_color=7ee787" width="49%" alt="Lenguajes más utilizados"/>
 
 </div>
 
----
-
-### ▌SKILL SET
+<img src="assets/retro/skill-set.svg" width="100%" alt="skill set" />
 
 <div align="center">
 
-**AUTOMATION & SCRIPTING**
-
-<img src="https://skillicons.dev/icons?i=bash,python,powershell,git,github,gitlab&theme=dark" alt="Bash, Python, PowerShell, Git, GitHub, GitLab"/>
-
-**DATA & ENGINEERING**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,python,grafana&theme=dark" alt="PostgreSQL, MySQL, SQLite, Python, Grafana"/>
-
-`SQL` · `Apache Hop` · `Apache Airflow` · `Apache Superset` · `JupyterLab`
-
-**INFRASTRUCTURE & OBSERVABILITY**
-
-<img src="https://skillicons.dev/icons?i=linux,debian,redhat,docker,nginx,ansible&theme=dark" alt="Linux, Debian, Red Hat, Docker, Nginx, Ansible"/>
-
-`Zabbix` · `Graylog` · `VMware` · `OpenLDAP` · `CI/CD`
-
-**ENGINEERING PRACTICES**
-
-`Functional analysis` · `Quality assurance` · `Data quality` · `Technical documentation` · `Redmine`
+<img src="assets/retro/skills.svg" width="100%" alt="Tecnologías: Linux, Bash, PowerShell, Python, Git, GitLab, Docker, Ansible, PostgreSQL, MySQL, MariaDB, SQL, Jupyter, Pandas, Airflow, Apache Hop, Superset, Power BI, Zabbix, Graylog, Grafana, Nginx, VMware, OpenLDAP, Redmine y Odoo"/>
 
 </div>
 
----
+<img src="assets/retro/featured-projects.svg" width="100%" alt="featured projects" />
 
-### ▌FEATURED PROJECTS
-
-| Project | Focus |
+| Proyecto | Descripción |
 |:--|:--|
-| [**SlimWin**](https://github.com/maniat1k/SlimWin-) | Windows optimization GUI • .NET / Avalonia |
-| [**Solarizedxterm**](https://github.com/maniat1k/solarizedxterm) | Terminal colors and readability |
-| [**Birame**](https://github.com/maniat1k/birame) | ZSH prompt and shell workflow |
-| [**Windows11 FixMBR**](https://github.com/maniat1k/windows11_fixMBR) | Windows boot recovery |
-| [**Ahorro Visual**](https://maniat1k.github.io/ahorro.html) | Interactive savings simulator |
+| [**SlimWin**](https://github.com/maniat1k/SlimWin-) | Optimización de Windows con interfaz Avalonia / .NET |
+| [**Solarizedxterm**](https://github.com/maniat1k/solarizedxterm) | Tema de terminal centrado en legibilidad |
+| [**Birame**](https://github.com/maniat1k/birame) | Tema ZSH y personalización de shell |
+| [**Windows11 FixMBR**](https://github.com/maniat1k/windows11_fixMBR) | Reparación del arranque de Windows |
+| [**Ahorro Visual**](https://maniat1k.github.io/ahorro.html) | Simulador interactivo de ahorro |
 
 <div align="center">
 
----
+<sub>«Automatizar no es escribir scripts. Es diseñar sistemas que se sostienen solos.»</sub>
 
-<sub>“Automatizar no es escribir scripts. Es diseñar sistemas que se sostienen solos.”</sub>
+<br/>
 
-[![Support](https://img.shields.io/badge/Support_my_work-Ko--fi-238636?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/maniat1kuy)
+<a href="https://ko-fi.com/maniat1kuy"><img src="https://img.shields.io/badge/Support_my_work-Ko--fi-238636?style=for-the-badge&logo=kofi&logoColor=white" alt="Apoyar mi trabajo en Ko-fi"/></a>
 
 </div>
