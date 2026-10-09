@@ -1,7 +1,7 @@
 <!-- README del perfil de GitHub. No modifica el avatar ni la barra lateral. -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/banner.svg" width="100%" alt="banner" />
+<img src="assets/retro/banner.svg" width="100%" alt="banner" />
 
 </div>
 
