@@ -1,119 +1,93 @@
-<!-- HEADER -->
-<h1 align="center">Marcelo Lemos · <em>ManiAt1k</em></h1>
+<!-- README del perfil de GitHub. No modifica el avatar ni la barra lateral. -->
+<div align="center">
 
-<p align="center">
-<strong>Analista de Sistemas & Automatización</strong> ·
-<strong>Testing Estructurado & Optimización de Flujos</strong> ·
-<strong>Arquitectura Funcional</strong><br>
-Diseño sistemas trazables, reproducibles y orientados a reducir fricción operativa.
-</p>
+<h1 align="center">MANIAT1K</h1>
+<p align="center"><strong>DEVOPS · INGENIERÍA DE DATOS · AUTOMATIZACIÓN · LINUX</strong></p>
+<p align="center"><img src="https://img.shields.io/badge/TERMINAL-0d1117?style=for-the-badge&logo=gnubash&logoColor=7ee787" alt="Terminal"/> <img src="https://img.shields.io/badge/DATOS-238636?style=for-the-badge&logo=postgresql&logoColor=white" alt="Datos"/> <img src="https://img.shields.io/badge/AUTOMATIZACIÓN-0e4429?style=for-the-badge&logo=linux&logoColor=white" alt="Automatización"/></p>
 
----
+</div>
 
-## 🏛 Perfil Profesional
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/who-i-am.svg" width="100%" alt="Quién soy" />
 
-Trabajo en entornos críticos diseñando y mejorando procesos basados en:
+> Soy Marcelo Lemos, profesional de sistemas con más de 15 años de experiencia en plataformas críticas. Combino administración Linux, ingeniería de datos, automatización y análisis funcional para construir soluciones sostenibles.
 
-- Modelado funcional y técnico de requerimientos
-- Automatización de ciclos de prueba
-- Integración Git + Redmine + Evidencia trazable
-- SQL avanzado sobre PostgreSQL / motores relacionales
-- Documentación estructurada (SRS, RF, AF)
-- Gobierno técnico y control de calidad de datos
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/what-i-do.svg" width="100%" alt="Qué hago" />
 
-Mi enfoque combina precisión técnica, claridad documental y automatización sostenible.
+> Diseño y mantengo plataformas de datos, automatizo procesos y pruebas, trabajo con bases de datos relacionales y aplico observabilidad y prácticas DevOps a sistemas en producción.
 
----
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/vision.svg" width="100%" alt="vision" />
 
-## 🚀 Proyectos Destacados
+> Sistemas trazables, reproducibles y mantenibles. Menos fricción operativa, mayor calidad de datos y herramientas que ayuden a tomar mejores decisiones.
 
-| Proyecto | Descripción | Enlace |
-|----------|-------------|--------|
-| 🖥️ **Solarizedxterm** | Tema de colores para terminal enfocado en legibilidad y confort visual. | https://github.com/maniat1k/solarizedxterm |
-| ⚙️ **Birame** | Tema ZSH rediseñado para un flujo de trabajo más claro y minimalista. | https://github.com/maniat1k/birame |
-| 💾 **Windows11 FixMBR** | Script batch minimalista para reparación del cargador de arranque. | https://github.com/maniat1k/windows11_fixMBR |
-| 💰 **Ahorro Visual** | Calculadora interactiva de ahorro con simulación en tiempo real. | https://maniat1k.github.io/ahorro.html |
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/beyond-code.svg" width="100%" alt="Más allá del código" />
 
----
-## 🛠 Stack & Herramientas
+> Desarrollo herramientas abiertas, experimento con terminales y software, y comparto soluciones prácticas para otros profesionales.
 
-### 💾 Bases de Datos & Datos
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/connect.svg" width="100%" alt="Conectemos" />
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<div align="center">
 
-### 📊 Análisis & Automatización
+<a href="https://github.com/maniat1k"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marcelolemosuy/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/maniat1kUy"><img alt="X" src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://maniat1k.github.io"><img alt="Sitio web" src="https://img.shields.io/badge/Sitio_web-238636?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://ko-fi.com/maniat1kuy"><img alt="Ko-fi" src="https://img.shields.io/badge/Ko-fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+</div>
 
-### ⚙️ Infraestructura & DevOps
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/github-activity.svg" width="100%" alt="Actividad en GitHub" />
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+<div align="center">
 
-### 🔌 APIs & Integración
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maniat1k&theme=github_dark" width="98%" alt="Actividad de GitHub"/>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=maniat1k&show_icons=true&theme=github_dark&hide_border=true&title_color=7ee787&icon_color=3fb950" width="49%" alt="Estadísticas de GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniat1k&layout=compact&theme=github_dark&hide_border=true&title_color=7ee787" width="49%" alt="Lenguajes más utilizados"/>
 
-### 🌿 Versionado & Gestión
+</div>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/skill-set.svg" width="100%" alt="Tecnologías" />
 
-### 🎨 Herramientas
+<div align="center">
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+**SISTEMAS Y AUTOMATIZACIÓN**
 
-### 🖥 Entorno
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,py,git,gitlab,docker,ansible&theme=dark&perline=8" alt="Linux, Bash, PowerShell, Python, Git, GitLab, Docker y Ansible"/>
 
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+**DATOS Y ANÁLISIS**
 
----
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,py,grafana&theme=dark&perline=8" alt="PostgreSQL, MySQL, SQLite, Python y Grafana"/>
 
-# 📊 GitHub Stats
+<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=maniat1k&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
+<img src="https://img.shields.io/badge/Apache_Hop-243642?style=for-the-badge" alt="Apache Hop"/> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/> <img src="https://img.shields.io/badge/Apache_Superset-20A7C9?style=for-the-badge" alt="Superset"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge" alt="Power BI"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=maniat1k&theme=shadow_green&hide_border=false)
+**OPERACIONES E INGENIERÍA**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maniat1k&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://skillicons.dev/icons?i=nginx,redhat,debian,ubuntu,linux,docker&theme=dark&perline=8" alt="Nginx, Red Hat, Debian, Ubuntu, Linux y Docker"/>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<img src="https://img.shields.io/badge/Zabbix-CB0000?style=for-the-badge" alt="Zabbix"/> <img src="https://img.shields.io/badge/Graylog-2B3440?style=for-the-badge" alt="Graylog"/> <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge" alt="VMware"/> <img src="https://img.shields.io/badge/OpenLDAP-335A8B?style=for-the-badge" alt="OpenLDAP"/> <img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge" alt="Redmine"/> <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo"/>
 
-![](https://github-profile-trophy.vercel.app/?username=maniat1k&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
----
+<img src="https://raw.githubusercontent.com/maniat1k/maniat1k/preview/retro-profile-readme/assets/retro/featured-projects.svg" width="100%" alt="Proyectos destacados" />
 
-## ☕ Apoyar mi trabajo
+| Proyecto | Descripción |
+|:--|:--|
+| [**SlimWin**](https://github.com/maniat1k/SlimWin-) | Optimización de Windows con interfaz Avalonia / .NET |
+| [**Solarizedxterm**](https://github.com/maniat1k/solarizedxterm) | Tema de terminal centrado en legibilidad |
+| [**Birame**](https://github.com/maniat1k/birame) | Tema ZSH y personalización de shell |
+| [**Windows11 FixMBR**](https://github.com/maniat1k/windows11_fixMBR) | Reparación del arranque de Windows |
+| [**Ahorro Visual**](https://maniat1k.github.io/ahorro.html) | Simulador interactivo de ahorro |
 
-Si algún proyecto te ayudó a simplificar un problema o ahorrar tiempo:
+<div align="center">
 
-https://ko-fi.com/maniat1kuy
+<sub>«Automatizar no es escribir scripts. Es diseñar sistemas que se sostienen solos.»</sub>
 
----
+<br/>
 
-## 🌐 Conectemos
+<a href="https://ko-fi.com/maniat1kuy"><img src="https://img.shields.io/badge/Apoyar_mi_trabajo-Ko--fi-238636?style=for-the-badge&logo=kofi&logoColor=white" alt="Apoyar mi trabajo en Ko-fi"/></a>
 
-- X: https://x.com/maniat1kUy
-- Sitio Web: https://maniat1k.github.io
-
----
-
-> “Automatizar no es escribir scripts. Es diseñar sistemas que se sostienen solos.”
-> — Marcelo Lemos
+</div>
