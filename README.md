@@ -1,15 +1,15 @@
-<!-- GitHub profile README. Preview branch; does not modify the GitHub avatar or profile sidebar. -->
+<!-- README del perfil de GitHub. No modifica el avatar ni la barra lateral. -->
 <div align="center">
 
 <img src="assets/retro/banner.svg" width="100%" alt="banner" />
 
 </div>
 
-<img src="assets/retro/who-i-am.svg" width="100%" alt="who i am" />
+<img src="assets/retro/who-i-am.svg" width="100%" alt="Quién soy" />
 
 > Soy Marcelo Lemos, profesional de sistemas con más de 15 años de experiencia en plataformas críticas. Combino administración Linux, ingeniería de datos, automatización y análisis funcional para construir soluciones sostenibles.
 
-<img src="assets/retro/what-i-do.svg" width="100%" alt="what i do" />
+<img src="assets/retro/what-i-do.svg" width="100%" alt="Qué hago" />
 
 > Diseño y mantengo plataformas de datos, automatizo procesos y pruebas, trabajo con bases de datos relacionales y aplico observabilidad y prácticas DevOps a sistemas en producción.
 
@@ -17,21 +17,21 @@
 
 > Sistemas trazables, reproducibles y mantenibles. Menos fricción operativa, mayor calidad de datos y herramientas que ayuden a tomar mejores decisiones.
 
-<img src="assets/retro/beyond-code.svg" width="100%" alt="beyond code" />
+<img src="assets/retro/beyond-code.svg" width="100%" alt="Más allá del código" />
 
 > Desarrollo herramientas abiertas, experimento con terminales y software, y comparto soluciones prácticas para otros profesionales.
 
-<img src="assets/retro/connect.svg" width="100%" alt="connect" />
+<img src="assets/retro/connect.svg" width="100%" alt="Conectemos" />
 
 <table align="center"><tr>
 <td align="center"><a href="https://github.com/maniat1k"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="32" alt="GitHub"/><br/>GitHub</a></td>
 <td align="center"><a href="https://www.linkedin.com/in/marcelolemosuy/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" alt="LinkedIn"/><br/>LinkedIn</a></td>
 <td align="center"><a href="https://x.com/maniat1kUy"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="32" alt="X"/><br/>X</a></td>
-<td align="center"><a href="https://maniat1k.github.io"><img src="https://cdn.simpleicons.org/googlechrome/7ee787" width="32" alt="Sitio web"/><br/>Website</a></td>
+<td align="center"><a href="https://maniat1k.github.io"><img src="https://cdn.simpleicons.org/googlechrome/7ee787" width="32" alt="Sitio web"/><br/>Sitio web</a></td>
 <td align="center"><a href="https://ko-fi.com/maniat1kuy"><img src="https://cdn.simpleicons.org/kofi/FF5E5B" width="32" alt="Ko-fi"/><br/>Ko-fi</a></td>
 </tr></table>
 
-<img src="assets/retro/github-activity.svg" width="100%" alt="github activity" />
+<img src="assets/retro/github-activity.svg" width="100%" alt="Actividad en GitHub" />
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-<img src="assets/retro/skill-set.svg" width="100%" alt="skill set" />
+<img src="assets/retro/skill-set.svg" width="100%" alt="Tecnologías" />
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 </div>
 
-<img src="assets/retro/featured-projects.svg" width="100%" alt="featured projects" />
+<img src="assets/retro/featured-projects.svg" width="100%" alt="Proyectos destacados" />
 
 | Proyecto | Descripción |
 |:--|:--|
@@ -66,6 +66,6 @@
 
 <br/>
 
-<a href="https://ko-fi.com/maniat1kuy"><img src="https://img.shields.io/badge/Support_my_work-Ko--fi-238636?style=for-the-badge&logo=kofi&logoColor=white" alt="Apoyar mi trabajo en Ko-fi"/></a>
+<a href="https://ko-fi.com/maniat1kuy"><img src="https://img.shields.io/badge/Apoyar_mi_trabajo-Ko--fi-238636?style=for-the-badge&logo=kofi&logoColor=white" alt="Apoyar mi trabajo en Ko-fi"/></a>
 
 </div>
