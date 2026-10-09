@@ -1,7 +1,9 @@
 <!-- README del perfil de GitHub. No modifica el avatar ni la barra lateral. -->
 <div align="center">
 
-<img src="assets/retro/banner.svg" width="100%" alt="banner" />
+<h1 align="center">MANIAT1K</h1>
+<p align="center"><strong>DEVOPS · INGENIERÍA DE DATOS · AUTOMATIZACIÓN · LINUX</strong></p>
+<p align="center"><img src="https://img.shields.io/badge/TERMINAL-0d1117?style=for-the-badge&logo=gnubash&logoColor=7ee787" alt="Terminal"/> <img src="https://img.shields.io/badge/DATOS-238636?style=for-the-badge&logo=postgresql&logoColor=white" alt="Datos"/> <img src="https://img.shields.io/badge/AUTOMATIZACIÓN-0e4429?style=for-the-badge&logo=linux&logoColor=white" alt="Automatización"/></p>
 
 </div>
 
